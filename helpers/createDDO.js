@@ -28,22 +28,19 @@ function calculateSS(driverDataObject, streetData){
         //Even
         if (streetData.length % 2 === 0){
             nSS = countVowels(driver) * 1.5;
-            if (driver.length % 2 === 0) {
-                nSS *= 1.5;
-            }
-        }
-        if (streetData.length % 2 !== 0){
+        } else {
             //Odd
             nSS = countConsonants(driver) * 1;
-            if (driver.length % 2 !== 0) {
-                nSS *= 1.5;
-            }
-        }        
+        }
+
+        //Increase 50% if there is a common factor between both lengths
+        if (getFactor(driver.length, streetData.length) > 0) {
+            nSS *= 1.5;
+        }
         objectData.push({driver, street:streetData, nSS})        
     }
     return objectData;
 }
-
 
 
 /**
