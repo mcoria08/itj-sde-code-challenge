@@ -27,7 +27,7 @@ Use the package manager [npm] to install the project:
 npm install
 ```
 
-The information of the project is located in two separated files: **[app\data]**  
+The information of the project is located in two separated files: **[./data]**  
 > drivers.txt  
 > shipments.txt
 
