@@ -66,7 +66,7 @@ The information of the project is located in two separated files: **[./data]**
 
 To run the project:  
 ```
-npm start
+node index.js
 ```
 ## Result with the provided data
 
