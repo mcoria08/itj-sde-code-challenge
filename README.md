@@ -70,7 +70,7 @@ node index.js
 ```
 ## Result with the provided data
 
-    Total Suitability Score (SS):  118  
+    Total Suitability Score (SS):  118.5
     Driver: Izaiah Lowe, Address: 215 Osinski Manors
     Driver: Murphy Mosciski, Address: 9856 Marvin Stravenue
     Driver: Everardo Welch, Address: 7127 Kathlyn Ferry
