@@ -70,14 +70,14 @@ node index.js
 ```
 ## Result with the provided data
 
-    Total Suitability Score (SS):  103  
-    Driver: Everardo Welch, Address: 215 Osinski Manors  
-    Driver: Murphy Mosciski, Address: 9856 Marvin Stravenue  
-    Driver: Monica Hermann, Address: 7127 Kathlyn Ferry  
-    Driver: Howard Emmerich, Address: 987 Champlin Lake  
-    Driver: Orval Mayert, Address: 63187 Volkman Garden Suite 447  
-    Driver: Noemie Murphy, Address: 75855 Dessie Lights  
-    Driver: Izaiah Lowe, Address: 1797 Adolf Island Apt. 744  
-    Driver: Kaiser Sose, Address: 2431 Lindgren Corners  
-    Driver: Ellis Wisozk, Address: 8725 Aufderhar River Suite 859  
-    Driver: Cleve Durgan, Address: 79035 Shanna Light Apt. 322  
+    Total Suitability Score (SS):  118  
+    Driver: Izaiah Lowe, Address: 215 Osinski Manors
+    Driver: Murphy Mosciski, Address: 9856 Marvin Stravenue
+    Driver: Everardo Welch, Address: 7127 Kathlyn Ferry
+    Driver: Howard Emmerich, Address: 987 Champlin Lake
+    Driver: Monica Hermann, Address: 63187 Volkman Garden Suite 447
+    Driver: Orval Mayert, Address: 75855 Dessie Lights
+    Driver: Noemie Murphy, Address: 1797 Adolf Island Apt. 744
+    Driver: Ellis Wisozk, Address: 2431 Lindgren Corners
+    Driver: Kaiser Sose, Address: 8725 Aufderhar River Suite 859
+    Driver: Cleve Durgan, Address: 79035 Shanna Light Apt. 322 
