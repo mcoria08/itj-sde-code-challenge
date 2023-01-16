@@ -6,7 +6,6 @@ const formatColor = require('colors');
 * @param {number} nTotalSS - The total Suitability Score (SS)
 *
 */
-
 function printSolution(arrMatrixShipment, nTotalSS){
     let strInformation = "";
     console.log("Total Suitability Score (SS): ".green, formatColor.yellow(nTotalSS));

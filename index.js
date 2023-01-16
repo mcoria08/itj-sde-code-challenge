@@ -15,4 +15,5 @@ const arrMatrixShipment = createDriverDestinationObject(dataDrivers, dataShipmen
 //Get Total SS
 const nTotalSS = getTotalSS(arrMatrixShipment);
 
+//Print the final results
 printSolution(arrMatrixShipment, nTotalSS);
